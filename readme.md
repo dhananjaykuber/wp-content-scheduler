@@ -53,7 +53,7 @@ WP Content Scheduler is a WordPress plugin that allows you to schedule content s
 In the post list view, you'll see an "Expiry Date" column showing the scheduled change date for posts set to be trashed
 
 <p align="center">
-  <img src="/assets/images/columns" alt="Post list column" />
+  <img src="/assets/images/columns.png" alt="Post list column" />
 </p>
 
 <h3>
