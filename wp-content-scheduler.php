@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       WP Content Scheduler
- * Plugin URI:        https://github.com/dhananjaykuber/wp-content-scheduler
+ * Plugin URI:        https://github.com/dhananjaykuber/wp-content-scheduler.git
  * Description:       Allows scheduling post status changes at specific dates and times.
  * Version:           1.0
  * Author:            Dhananjay Kuber
