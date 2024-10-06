@@ -1,0 +1,22 @@
+.content-scheduler-metabox {
+  margin-bottom: 20px;
+}
+
+.content-scheduler-metabox label {
+  text-transform: uppercase;
+  font-size: 11px;
+  font-weight: 500;
+}
+
+.content-scheduler-metabox #content_scheduler_date,
+.content-scheduler-metabox #content_scheduler_time,
+.content-scheduler-metabox #content_scheduler_status {
+  width: 100%;
+  border-radius: 0;
+  padding: 5px 10px;
+  margin-top: 6px;
+}
+
+.content-scheduler-metabox #content_scheduler_status {
+  width: 90%;
+}
